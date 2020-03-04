@@ -1,0 +1,23 @@
+{
+  "name": "open-source-roomba",
+  "version": "1.0.0",
+  "description": "cleaning away",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taraadiseshan/open-source-roomba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taraadiseshan/open-source-roomba/issues"
+  },
+  "homepage": "https://github.com/taraadiseshan/open-source-roomba#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@octokit/rest": "^15.2.5"
+  }
+}
